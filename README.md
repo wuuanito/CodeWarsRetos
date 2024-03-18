@@ -22,7 +22,7 @@ En este repositorio, encontrarás soluciones a una variedad de problemas de prog
 ## Acerca de Mí
 
 
-![Logo de CodeWars](github.png)
+![Logo de CodeWars](github.jpg)
 
 
 
