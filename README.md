@@ -5,7 +5,7 @@
 Este repositorio contiene soluciones a diversos desafíos de programación de la plataforma CodeWars. Soy un principiante apasionado en el mundo de la programación, ansioso por demostrar mis habilidades y aprender de este proceso desafiante.
 
 
-![Logo de CodeWars](codewars.png)
+![Logo de CodeWars](Imagenes/codewars.png)
 
 
 ## ¿Qué encontrarás aquí?
@@ -22,7 +22,7 @@ En este repositorio, encontrarás soluciones a una variedad de problemas de prog
 ## Acerca de Mí
 
 
-![Logo de CodeWars](github.jpg)
+![Logo de CodeWars](Imagenes/github.jpg)
 
 
 
