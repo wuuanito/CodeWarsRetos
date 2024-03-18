@@ -3,6 +3,8 @@
 ¡Bienvenido/a a mi repositorio de CodeWars!
 
 Este repositorio contiene soluciones a diversos desafíos de programación de la plataforma CodeWars. Soy un principiante apasionado en el mundo de la programación, ansioso por demostrar mis habilidades y aprender de este proceso desafiante.
+![Logo de CodeWars](codewars.png)
+
 
 ## ¿Qué encontrarás aquí?
 
